@@ -48,6 +48,6 @@
 
 <p align="center">
 <a href="https://www.danieljamesterry.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.danieljamesterry.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/d-terry/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Daniel%Terry-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/d-terry/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Daniel%20Terry-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:daniel.terry2121@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-daniel.terry2121@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
