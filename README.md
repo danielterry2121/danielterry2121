@@ -4,7 +4,6 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Full Stack Web Development at Lambda School.
 - 💼 &nbsp; Working as a freelance web developer while finishing Lambda School.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Django, and Ant styles.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
