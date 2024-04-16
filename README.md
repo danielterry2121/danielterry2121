@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Working as a freelance web developer while finishing Lambda School.
+- 💼 &nbsp; Working as a software engineer for Hexagon ALI
 - 🌱 &nbsp; Learning more about Cloud Architecture, Django, and Ant styles.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
